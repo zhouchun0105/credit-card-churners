@@ -8,7 +8,9 @@ The data is about credit card customer, product and service. It has 21 features 
 # Conclusion
 Through churn analysis, we found that customers in middle age, with doctorate degrees, holding platinum(highest category) cards, having extremely low or high income, and having extremely high or low credit limit have high tendency to churn. The manager should spend more efforts on customers retention for those with these attributes.
 
-In addition, customers who contact with sales representative more often, customers who have few other bank products, and customers who have low revolving balance tend to have high churn rate. We recommend the manager to enhance by selling more bank products to the customer, keep an eye on customers with low balance, and dig deeper into why customer service leads to high churn rate.
+In addition, customers with increased engagement with sales representative, customers with few other bank products, and customers with low revolving balance tend to have high churn rate. We recommend the manager to provide promotion bundles to sell more bank products to increase loyalty, prioritize customers with low balance, and optimize customer service efficiency and quality to reduce churn rate.
+
+While the results of this analysis produced many interesting insights, there are still some limitations in this study. For example, many of the correlation coefficients as mentioned in the analysis are close to zero, which show that there is no significant relationship between the variables and churn rate. This may be because the relationship between the variables and churn rate is non-linear.
 
 # Future Studies
 The text or audio analysis can be performed to study why customer service leads to high churn rate.
