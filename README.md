@@ -5,6 +5,9 @@ Manager at the bank wants to know why customers stop their credit card services.
 # Dataset
 The data is about credit card customer, product and service. It has 21 features and 10128 rows. Customer demographic feature, customer card activity, credit card feature, and service feature are included. 
 
+# Technical Skill Applied
+Google Cloud Platform, Big Query, SQL, Data Studio, Python Visualization
+
 # Conclusion
 Through churn analysis, we found that customers in middle age, with doctorate degrees, holding platinum(highest category) cards, having extremely low or high income, and having extremely high or low credit limit have high tendency to churn. The manager should spend more efforts on customers retention for those with these attributes.
 
